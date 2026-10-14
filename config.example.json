@@ -1,0 +1,20 @@
+{
+  "internal_domains": ["genfollower.com"],
+  "internal_email_addresses": [
+    "genfollower@genfollower.com",
+    "marcus.chen@genfollower.com"
+  ],
+  "sales_email_addresses": {
+    "Chloe": "",
+    "Nicole": "",
+    "Ella": ""
+  },
+  "initial_standard_inquiry_count": 0,
+  "zoho_email_address": "marcus.chen@genfollower.com",
+  "zoho_imap_host": "imappro.zoho.com",
+  "zoho_imap_port": 993,
+  "zoho_smtp_host": "smtppro.zoho.com",
+  "zoho_smtp_port": 465,
+  "zoho_folder": "INBOX"
+}
+
